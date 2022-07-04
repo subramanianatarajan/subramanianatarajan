@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @subramanianatarajan
-- 👀 I’m interested in Cloud Computing  
+- 👀 I’m interested in Cloud Computing and web developement 
 - 🌱 I’m currently learning Master in computer science , IU University , Berlin Germany
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via subramanian.Natarajan@yahoo.com 
 
 <!---
